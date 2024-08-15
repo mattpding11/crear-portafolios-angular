@@ -37,7 +37,7 @@ Y en la vista de crear proyectos también se pueden crear nuevos proyectos
  
 🌐 Portafolio web: https://mattpding11.github.io/mateo 
   
-🌐 LinkedIn: https://github.com/mattpding11
+🌐 LinkedIn: [https://github.com/mattpding11](https://www.linkedin.com/in/mateo-penaranda-diaz-fullstack-developer/)
   
 ✉️ Correo: mateo_1999_7@outlook.es
 
